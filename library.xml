@@ -1,0 +1,13 @@
+<library>
+	<book>
+		<title> The hadoop Definitive Guide </title>
+		<author> Tom Black </author>
+		<price> 500 </price>
+	</book>	
+		
+	<book>
+		<title> The python complete Guide </title>
+		<author> jerry white </author>
+		<price> 1000 </price>
+	</book>	
+</library>

@@ -1,0 +1,5 @@
+Hello this is spark and AWS batch
+learning Spark using python
+Python is a dynamically typed language 
+high level language
+

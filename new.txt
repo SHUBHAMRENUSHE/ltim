@@ -1,0 +1,4 @@
+Hello this is spark and AWS batch
+Python is a dynamically typed language 
+high level language
+
